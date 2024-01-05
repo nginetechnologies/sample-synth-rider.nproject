@@ -1,6 +1,7 @@
 {
     "name": "Synth Rider",
-    "guid": "a00eafe6-d838-456e-85d4-1c2f847f12f7",
+    "guid": "f559d977-4174-45f2-ad28-439a55f6c6e4",
+    "database_guid": "937a4227-6a44-d582-9aca-65ba3e4d1a92",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,9 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "96e51030-eda8-4d47-9dd3-d43e2c646a50",
-    "default_scene": "616c1500-01ba-49bf-94f3-3abe81712649",
+    "thumbnail_guid": "2068efed-f536-5362-ebf0-3066879dce16",
+    "default_scene": "baf4c854-9bc4-4f90-9453-1b2dd2535060",
+    "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
