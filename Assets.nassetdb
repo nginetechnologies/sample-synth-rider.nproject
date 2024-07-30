@@ -1,8 +1,4 @@
 {
-    "2068efed-f536-5362-ebf0-3066879dce16": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Synth_Rider_Thumb.tex.nasset"
-    },
     "937a4227-6a44-d582-9aca-65ba3e4d1a92": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
@@ -21,5 +17,8 @@
             "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
         ]
     },
-    "guid": "937a4227-6a44-d582-9aca-65ba3e4d1a92"
+    "guid": "937a4227-6a44-d582-9aca-65ba3e4d1a92",
+    "imported_assets": [
+        "2068efed-f536-5362-ebf0-3066879dce16"
+    ]
 }
